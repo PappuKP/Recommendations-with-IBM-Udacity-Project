@@ -3,11 +3,7 @@ This capstone project is part of the Data Science Nanodegree by Udacity
 
 ## Project Overview
 I aim in my capstone to built a recommendation engine to recommend articles for users, either new users or existings.
-And part of the project, I'll answer the following 2 questions:
-
-  1. What are the top 10 most read articles?
-  2. What are the recommended articles for new users?
-  3. What are the recommended articles for an existing user based on articles read by the user?
+And part of the project.
 
 
 ## Problem Solving Strategy
@@ -124,7 +120,3 @@ The following are some results from the project:
 
 ### Accuracy of the recommendation engine
 ![GitHub Logo](/pic/accuracy.png)
-
-
-## Blogpost
-https://medium.com/@ece.kmorfeq_83221/recommendations-with-ibm-a2fbb8006471 - Recommendations with IBM!
